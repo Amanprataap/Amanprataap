@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Amanprataap
+- 👋 Hi, I’m Aman pratap singh
 - 👀 I’m interested in Web development.
 - 🌱 I’m currently learning HTML,CSS,JAVA.
 - 💞️ I’m looking to collaborate on software development project.
